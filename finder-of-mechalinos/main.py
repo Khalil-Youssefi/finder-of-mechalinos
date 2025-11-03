@@ -187,8 +187,8 @@ def main():
     else:
         print("No devices responded with OK.")
 
-if __name__ == "__main__":
+def cli():
     main()
 
-def cli():
+if __name__ == "__main__":
     main()
