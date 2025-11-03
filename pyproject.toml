@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "finder-of-mechalinos"
-version = "1.0.0"
+version = "1.0.2"
 description = "Tool to discover Mechalino robots on a local network"
 authors = [
   { name="Khalil Youssefi", email="kh4lil@outlook.com" }

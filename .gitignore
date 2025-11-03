@@ -1,2 +1,4 @@
 dist/*
 finder_of_mechalinos.egg-info/*
+finder_of_mechalinos/__pycache__/*
+__pycache__/*
